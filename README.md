@@ -7,6 +7,8 @@
 
 
 ## 项目说明
+该项目是在有引导情况下进行的第一次完整的数据分析。
+
 数据集：
 - [纽约市(Citi Bike)](https://www.citibikenyc.com/system-data)
 - [芝加哥 (Divvy)](https://www.divvybikes.com/system-data)
